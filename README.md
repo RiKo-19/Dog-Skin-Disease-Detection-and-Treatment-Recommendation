@@ -87,5 +87,5 @@ Here are examples:
 ---
 
 ## 👤 Author
-- Jit Mandal
 - Ritam Koley
+- Jit Mandal
